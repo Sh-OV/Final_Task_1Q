@@ -1,0 +1,15 @@
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\bin\Debug\net6.0\Final_Task_1Q.exe
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\bin\Debug\net6.0\Final_Task_1Q.deps.json
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\bin\Debug\net6.0\Final_Task_1Q.runtimeconfig.json
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\bin\Debug\net6.0\Final_Task_1Q.dll
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\bin\Debug\net6.0\Final_Task_1Q.pdb
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\Final_Task_1Q.csproj.AssemblyReference.cache
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\Final_Task_1Q.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\Final_Task_1Q.AssemblyInfoInputs.cache
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\Final_Task_1Q.AssemblyInfo.cs
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\Final_Task_1Q.csproj.CoreCompileInputs.cache
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\Final_Task_1Q.dll
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\refint\Final_Task_1Q.dll
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\Final_Task_1Q.pdb
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\Final_Task_1Q.genruntimeconfig.cache
+C:\1. Щёголева О.В\GB\Control_works\Final_Task_1Q\obj\Debug\net6.0\ref\Final_Task_1Q.dll
